@@ -1,1 +1,3 @@
 # ImageClassificationonDiabeticRetinopathy
+##### Diabetic Retinopathy (DR) is a diabetes complication that affects eyes. It is a complication that people with Type 1 or Type 2 diabetes could suffer from. It impacts the vision by damaging the blood vessels in the light-sensitive tissue in the retina
+##### Since the diagnosis of retina images is a relative necessary and pressing topic, our group decided to do image classification on diabetic retinopathy images of 5 DR stages with the intention to make a precise and powerful detection system to diagnose this disease
