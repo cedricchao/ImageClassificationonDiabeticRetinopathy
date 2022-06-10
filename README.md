@@ -5,12 +5,11 @@ the retina. Since the diagnosis of retina images is a relative necessary and pre
 classification on diabetic retinopathy images of 5 DR stages with the intention to make a precise and powerful detection system to diagnose this disease
 
 ## The layout of this repository
-test folder: images used for test
-validate folder: images used for validation
-train folder: images used for training
-VGG16.ipynb: code of VGG16 model
-processing_efficientnet.ipynb: code of efficientNet model
-mobilenet.ipynb: code of mobilenet model
+1. DiabeticRetinopathyBaseline.ipynb : code of baseline CNN model
+2. VGG16.ipynb: code of VGG16 model
+3. processing_efficientnet.ipynb: code of efficientNet model
+4. mobilenet.ipynb: code of mobilenet model
+5. 
 
 ## Instructions to run the code (VGG/Densenet)
 1. Download the whole dataset from https://www.kaggle.com/datasets/amanneo/diabetic-retinopathy-resized-arranged?resource=download
