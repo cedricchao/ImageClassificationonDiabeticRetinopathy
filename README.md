@@ -9,7 +9,7 @@ classification on diabetic retinopathy images of 5 DR stages with the intention 
 2. VGG16.ipynb: code of VGG16 model
 3. processing_efficientnet.ipynb: code of efficientNet model
 4. mobilenet.ipynb: code of mobilenet model
-5. 
+5. 228DenseNet_preprocessing.ipynb: code of densenet model
 
 ## Instructions to run the code (VGG/Densenet)
 1. Download the whole dataset from https://www.kaggle.com/datasets/amanneo/diabetic-retinopathy-resized-arranged?resource=download
